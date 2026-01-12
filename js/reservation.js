@@ -41,3 +41,4 @@ bookingForm.addEventListener("submit", function (e) {
     // Réinitialiser le formulaire
     bookingForm.reset();
 });
+
